@@ -1,0 +1,24 @@
+body {
+  /*background-color: limegreen;*/
+}
+.container {
+  height: 30vmax;
+  width: 30vmax;
+  background-color: indianred;
+  padding: 2em;
+  margin: 0 auto;
+
+}
+.square {
+  background-color: indianred;
+  height: 25vmax;
+  width: 25vmax;
+  margin: 0 auto;
+  border: 1rem solid white;
+  color: white;
+  text-align: center;
+  font-family: helvetica;
+  text-transform: uppercase;
+  line-height: 25vmax;
+  font-size: 1em;
+}
